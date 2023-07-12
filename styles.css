@@ -11,6 +11,8 @@ img{
 	padding-left:50px;
 	height:330px;
 	width:500px;
+
+	  object-fit: cover;
 }
 .row1{
 	width:270px;
