@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+.hero{
+	width:1200px;
+	margin:4px;
+	height:330px;
+	background-color:ghostwhite;
+	display: flex;
+	 flex-flow: right;
+}
+img{
+	padding-left:50px;
+	height:330px;
+	width:500px;
+}
+.row1{
+	width:270px;
+	padding-left:50px;
+	padding-top:35px;
+	
+	}
+h1{
+	word-wrap: break-word;
+	text-align:center;
+}
+p{
+	word-wrap: break-word;
+	text-align:center;
+}
+.btn{
+	position:justify;
+	border-radius:4px;
+	background-color:red;
+	color:white;
+	box-shadow: 5px 10px 18px #888888;
+	
+}
+.btn:hover{
+	border-radius:70px;
+	background-color:cyan;
+	width:125px;
+	height:25px;
+	color:yellow;
+	text animation:
+}
+.btn:active{
+	border-radius:70px;
+	background-color:turquoise;
+	width:125px;
+	height:25px;
+}
